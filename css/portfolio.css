@@ -278,7 +278,6 @@ img {
   .mobile-menu {
     position: absolute;
     width: 100%;
-    max-width: 480px;
     max-height: 796px;
     top: 0;
     left: 50%;
@@ -548,7 +547,7 @@ img {
   top: 0;
   width: 100%;
   height: 100%;
-  padding: 63px 24px;
+  padding: 50px 24px;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.556;
